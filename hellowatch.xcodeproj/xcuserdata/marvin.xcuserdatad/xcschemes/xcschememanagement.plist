@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>hellowatch WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>hellowatch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>58F973BA1A61D7F400DB9D94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>58F973D81A61D89500DB9D94</key>
 		<dict>
 			<key>primary</key>
 			<true/>
